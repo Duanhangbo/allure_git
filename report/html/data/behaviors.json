@@ -1,0 +1,17 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "F:\\project\\搜索案例_allure\\scripts.test_search.TestSearch.test_search[\\u5783\\u573e]",
+    "uid" : "d7a2b48aaa60c4ee",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1560741887594,
+      "stop" : 1560741921152,
+      "duration" : 33558
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

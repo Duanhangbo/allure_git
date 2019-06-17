@@ -1,0 +1,40 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1560741887594" stop="1560741921152">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1560741887594" status="passed" stop="1560741921152">
+      <name>F:\project\搜索案例_allure\scripts.test_search.TestSearch.test_search[\u5783\u573e]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7172-MainThread"/>
+        <label name="host" value="CEVF9YECC4ADCYO"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1560741901734" status="passed" stop="1560741902518">
+          <name>设置首页 - 点击搜索</name>
+          <title>设置首页 - 点击搜索</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1560741902518" status="passed" stop="1560741920918">
+          <name>设置首页 - 输入文字</name>
+          <title>设置首页 - 输入文字</title>
+          <attachments>
+            <attachment source="cb3a5e85-452d-4eaa-99fe-c6647d11e81e-attachment.txt" title="输⼊" type="text/plain"/>
+            <attachment source="98fac8b2-dca0-4a92-b93d-d6af925ad712-attachment.png" title="截图" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1560741920918" status="passed" stop="1560741921151">
+          <name>设置首页 - 点击返回按钮</name>
+          <title>设置首页 - 点击返回按钮</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "CEVF9YECC4ADCYO",
+    "children" : [ {
+      "name" : "7172-MainThread",
+      "children" : [ {
+        "name" : "F:\\project\\搜索案例_allure\\scripts.test_search.TestSearch.test_search[\\u5783\\u573e]",
+        "uid" : "d7a2b48aaa60c4ee",
+        "parentUid" : "a776efa2a866a04a3bc83625d3affe0b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1560741887594,
+          "stop" : 1560741921152,
+          "duration" : 33558
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a776efa2a866a04a3bc83625d3affe0b"
+    } ],
+    "uid" : "b34e0dce978375f6a67e250d8fb28cf1"
+  } ]
+}
